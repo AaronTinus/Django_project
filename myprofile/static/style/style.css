@@ -1,0 +1,46 @@
+/* font-family: 'Kay Pho Du', serif;
+font-family: 'Russo One', sans-serif;
+font-family: 'Sometype Mono', monospace; */
+
+
+body{
+    text-align: center;
+    background-color: darkorange;
+}
+
+h1{
+    color: teal;
+    font-family: 'Russo One', sans-serif;
+}
+
+h3{
+    color: black;
+    
+}
+
+h4{
+    color: green;
+
+}
+
+h5{
+    color: white;
+
+}
+
+h6{
+    color: red;
+
+}
+
+p{
+    color: blue;
+    font-family: 'Sometype Mono', monospace;
+}
+
+ul{
+    list-style-position: inside;
+}
+/* ol{
+    content: center;
+} */
